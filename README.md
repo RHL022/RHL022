@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakub
-- 🔭 CS student at Politechnika Lubelska
+- 🔭 CS student
 
 
 
