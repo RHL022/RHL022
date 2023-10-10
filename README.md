@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jakub
 - 🔭 CS student at Politechnika Lubelska
-- 🌱 I’m currently learning C++
+
 
 
 <!---
